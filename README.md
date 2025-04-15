@@ -14,7 +14,7 @@ Project ini adalah aplikasi **frontend test** berbasis Vue.js untuk menguji API 
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/user-api-test.git
+   git clone https://github.com/umarfaruqsyafar/user-api-test.git
    cd user-api-test
 
 2. Install dependencies:
